@@ -12,19 +12,19 @@ The Kaggle Dataset link: https://www.kaggle.com/datasets/vjchoudhary7/customer-s
 ## Dependencies
   To run this project, you need to insatll the following Python packages:
  - Pandas: For data manipulation and analysis
-     bash
+     ```bash
       pip install pandas 
  - scikit-learn: A library for machine learning algorithms and tools.
 
-     bash
+    ``` bash
       pip install scikit-learn
  - matplotlib: A library for creating visualizations.
 
-      bash
+     ``` bash
            pip install matplotlib
  - seaborn: A librray for statistical data visualization
 
-    bash
+   ``` bash
       pip install seaborn
 
 ## Steps
