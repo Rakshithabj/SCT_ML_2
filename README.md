@@ -10,7 +10,7 @@ The goal of this project is to segment customers into clusters based on their ag
 The Kaggle Dataset link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ## Dependencies
-  To run this project, you need to insatll the following Python packages:
+  To run this project, you need to install the following Python packages:
  - Pandas: For data manipulation and analysis
      ```bash
       pip install pandas 
